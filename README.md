@@ -1,6 +1,6 @@
 # Modeling_Delphi_OpenGL
--> The main project developed at school for a conference;\n
--> Consists of three parts: Client, Redactor, Server;\n
+-> The main project developed at school for a conference
+-> Consists of three parts: Client, Redactor, Server
 
 # Client
 -> The application for school pupils
